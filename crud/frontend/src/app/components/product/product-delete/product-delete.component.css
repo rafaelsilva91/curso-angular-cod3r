@@ -1,0 +1,10 @@
+* {
+    color: dimgray;
+    font-size: 1rem;
+}
+
+button {
+    background-color: darkslateblue;
+    color: white;
+    margin: 0 5px 0 0;
+}

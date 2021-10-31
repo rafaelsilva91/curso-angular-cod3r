@@ -1,0 +1,26 @@
+.container {
+    /* position: fixed; */
+    /* max-height: 30px; */
+    display: flex;
+    align-items: center;
+    background-color: white;
+    font-size: 12px;
+    /* bottom: 0; */
+    justify-content: flex-start;
+}
+
+.sidenav {
+    background-color: darkslateblue;
+    width: 200px;
+    /* margin: 0; */
+}
+
+.nav-list i {
+    padding-right: 15px;
+}
+
+.content {
+    padding: 16px;
+    background-color: #fff;
+    width: 100%;
+}

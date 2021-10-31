@@ -1,24 +1,29 @@
 {
-    "products": [
-      {
-        "id": 1,
-        "name": "Caneta Bic",
-        "price": "5.89"
-      },
-      {
-        "id": 2,
-        "name": "Notebook Mac Pro",
-        "price": "12000.89"
-      },
-      {
-        "id": 3,
-        "name": "Sansung S20",
-        "price": "5000.89"
-      },
-      {
-        "name": "Geladeira Consul",
-        "price": "2113.99",
-        "id": 4
-      }
-    ]
-  }
+  "products": [
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": "12000.90"
+    },
+    {
+      "id": 3,
+      "name": "Sansung S20",
+      "price": "5000.89"
+    },
+    {
+      "name": "Mesa Start 4 cadeiras",
+      "price": "529.99",
+      "id": 6
+    },
+    {
+      "name": "Televisão Smart Sansung PRO",
+      "price": "1699.90",
+      "id": 8
+    },
+    {
+      "name": "Geladeira Consul PRO MAX",
+      "price": "2000.99",
+      "id": 9
+    }
+  ]
+}

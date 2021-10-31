@@ -1,0 +1,28 @@
+* {
+    color: dimgray;
+    color: white;
+    font-size: 1rem;
+}
+
+button {
+    background-color: darkslateblue;
+    color: white;
+    margin: 0 5px 0 0;
+}
+
+form {
+    display: flex;
+    /* flex-direction: column; */
+    flex-direction: row;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    /* flex-direction: row; */
+}
+
+mat-card {
+    width: 80%;
+    margin: 0 auto;
+}

@@ -1,0 +1,21 @@
+.container-table {
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 1px solid 25px;
+}
+
+table {
+    width: 100%;
+}
+
+.edit {
+    margin-right: 40px;
+}
+
+.edit>i {
+    color: #d9cd26;
+}
+
+.delete>i {
+    color: #e35e6b;
+}
