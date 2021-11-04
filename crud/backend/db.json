@@ -3,12 +3,12 @@
     {
       "id": 2,
       "name": "Notebook Mac Pro",
-      "price": "12000.90"
+      "price": "6000.90"
     },
     {
       "id": 3,
       "name": "Sansung S20",
-      "price": "5000.89"
+      "price": "4000.89"
     },
     {
       "name": "Mesa Start 4 cadeiras",
@@ -19,11 +19,6 @@
       "name": "Televisão Smart Sansung PRO",
       "price": "1699.90",
       "id": 8
-    },
-    {
-      "name": "Geladeira Consul PRO MAX",
-      "price": "2000.99",
-      "id": 9
     }
   ]
 }
