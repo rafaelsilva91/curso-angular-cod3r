@@ -1,6 +1,20 @@
 # ** Projeto CRUD Curso Angular da CoD3r. ** 
 
+### Tela home
 
+<img src="/home.png" width="1200px" heigth="1200px" />
+
+### lancamentos_produtos
+<img src="/lancamentos_produtos.png" width="1200px" heigth="1200px" />
+
+### alterar-produto
+<img src="/alterar-produto.png" width="1200px" heigth="1200px" />
+
+### alteracao-produto
+<img src="/alteracao-produto.png" width="1200px" heigth="1200px" />
+
+### deletar-produto
+<img src="/deletar-produto.png" width="1200px" heigth="1200px" />
 
 instalacao
 > npm install -g @angular/cli@11.2.7
